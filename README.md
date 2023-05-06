@@ -1,13 +1,4 @@
 # OIBSIP-Aniketh
 Task 1 : Iris  Flower Classification 
-Iris Flower has three Species:
-Setosa, Versicolor and Virginica
-
-Libraries used :
-Numpy, Pandas, Seaborn, Matplotlib
-
-Data Preprocessing, Train Test Splitting, Data Visualization, Model Fiiting, Comparison of Actual and Predicted Results
-Algorithm : K Nearest Neighbor Algorithm
-
-Tools:
-Python, Machine Learning, VS Code
+Iris Flower has three species : Setosa, Versicolor, Virginica
+These will be differs according to their measumrements. Assuming having these measurements of these flowers according to the species, the task is to train a machine learning model that can learn from the measurements of the species and classify them.
